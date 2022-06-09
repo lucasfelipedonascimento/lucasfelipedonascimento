@@ -1,6 +1,7 @@
 # Olá pessoal, eu sou o Lucas Felipe! 😄
 
-# Atualmente tenho estudado mais as linguagens Java e JavaScript 📚
+# Atualmente tenho estudado frameworks como ReactJS e TailwindCSS 📚
+# Tenho feito pequenos projetos como Landing Pages, e participação em eventos de programação.
 
 <div>
 <a href="https://github.com/lucasfelipedonascimento">
