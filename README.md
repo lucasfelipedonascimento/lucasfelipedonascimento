@@ -1,10 +1,11 @@
 # Olá pessoal, eu sou o Lucas Felipe! 😄
 
-# Atualmente tenho estudado frameworks como ReactJS e TailwindCSS 📚
-# Tenho feito pequenos projetos como Landing Pages, e participação em eventos de programação.
+## Atualmente venho estudando ReactJS e TypeScript 📚
+### Trabalhando como desenvolvedor Front-end no <a href="https://www.linkedin.com/company/tempario/">Tempario</a>. 
+
 
 <div>
-<a href="https://github.com/lucasfelipedonascimento">
+<a href="https://github.com/lucasfelipedonascimento" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfelipedonascimento&show_icons=dark&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelipedonascimento&layout=compact&langs_count=7&theme=merko"/>
 </div>
