@@ -1,7 +1,7 @@
 # Olá pessoal, eu sou o Lucas Felipe! 😄
 
 ## Atualmente venho estudando ReactJS e TypeScript 📚
-### Trabalhando como desenvolvedor Front-end no <a href="https://www.linkedin.com/company/tempario/">Tempario</a>. 
+### Prestando serviço como desenvolvedor Front-end no <a href="https://www.linkedin.com/company/tempario/">Tempario</a>. 
 
 
 <div>
