@@ -1,6 +1,6 @@
 # Olá pessoal, eu sou o Lucas Felipe! 😄
 
-## Atualmente venho estudando NextJS, NodeJS, Docker, PostgreSQL 📚
+## Atualmente venho estudando NextJS, NodeJS, Docker, PostgreSQL, POO, DDD 📚
 ### Desenvolvedor Full-Stack JR
 
 
