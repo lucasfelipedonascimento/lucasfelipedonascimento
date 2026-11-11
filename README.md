@@ -64,15 +64,28 @@ Gosto de código organizado e testável, e venho aprofundando **POO** e **Domain
 
 <!-- Coloque empresa, cargo e período. O conteúdo abaixo vem do que você já construiu. -->
 
-**Desenvolvedor de Automação (RPA) — NOME DA EMPRESA** · _mês/ano – atual_
+**Desenvolvedor de Automação (RPA) — Smarthis AI** · agosto/2026 – atual
 - Orquestração de robôs com **Power Automate Cloud** chamando fluxos do **Power Automate Desktop** em cadeia (coleta de itens → fila → processamento item a item)
 - Integração **Google Sheets + Apps Script + Power Automate**: disparo de automações por agendamento na planilha e **callbacks via Web App (webhook)** que atualizam o status de cada execução em tempo real
 - Controle de concorrência com `LockService`, autenticação por token e tratamento de falhas e timeouts (respostas assíncronas 202, retry policy, ramos de erro)
 - Manipulação de **filas de trabalho (Work Queues) pelo Dataverse**, fora das ações nativas do Desktop
 - Scripts de **Office Scripts (TypeScript)** para manipular tabelas do Excel de forma dinâmica
 
-**Desenvolvedor Full-Stack Jr — NOME DA EMPRESA** · _mês/ano – mês/ano_
-<!-- Ex.: interfaces com Next.js/React/Tailwind, APIs REST com Node/Express/PostgreSQL, testes com Jest -->
+**Desenvolvedor de Automação (RPA)** — Leilões PB · agosto/2025 – agosto/2026
+- Desenho de Fluxos para Desenvolvimento de Automações,
+- Desenvolvimento de Scripts com Excel Script
+- Preenchimento e Análise de Planilhas
+- mapeamento de API's para criação de Conectores personalizados e automações Power Automate para Whatsapp
+- Desenvolvimento de Aplicativos com Power Apps para comunicação com API's de comitentes,
+- Integração de planilhas no SharePoint e entre outros.
+
+**Desenvolvedor Full-Stack Jr — Tempario** · novembro/2022 – janeiro/2025
+- Desenvolvimento de páginas
+- Criação de componentes
+- Consumo e desenvolvimento de api's
+- testes unitários
+- Boas práticas
+- Utilização de metodologias ágeis
 
 ---
 
